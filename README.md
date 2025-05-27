@@ -1,3 +1,4 @@
+<h1>Chicken Jockey Clicker</h1>
 <h2><a href="https://taproad.io/chicken-jockey-clicker">Chicken Jockey Clicker</a>&nbsp;- Build Your Ultimate Clicker Empire! 🐔</h2>
 <p>Dive into the craziest clicker adventure inspired by Minecraft&rsquo;s rarest mob&mdash;the legendary chicken-riding zombies! From simple clicks to smart upgrades, you&rsquo;ll build an unstoppable army of battle chickens, blending the cuteness of poultry with the ferocity of tiny undead riders.</p>
 <h3>Simple Mechanics, Deep Strategy</h3>
